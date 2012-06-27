@@ -9372,7 +9372,6 @@ If they are not, position point at the first syntax error found."
 (run-hooks 'slime-load-hook)
 
 ;; Local Variables: 
-;; lexical-binding: t
 ;; outline-regexp: ";;;;+"
 ;; indent-tabs-mode: nil
 ;; coding: latin-1-unix
